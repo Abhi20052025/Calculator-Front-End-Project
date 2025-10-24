@@ -28,7 +28,7 @@ JavaScript (ES6) – Logic and interactivity
 
 Download or clone this repository
 
-git clone https://github.com/yourusername/calculator-project.git
+git clone https://github.com/Abhi20052025/Calculator-Front-End-Project/tree/main
 
 
 Open the index.html file in your browser
